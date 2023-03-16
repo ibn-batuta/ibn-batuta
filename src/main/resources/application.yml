@@ -1,0 +1,7 @@
+management:
+  endpoint:
+    prometheus:
+      enabled: false
+
+websocket:
+  url: wss://stream.binance.com:9443/ws/
